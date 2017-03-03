@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="weather_club" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.club.nicetomeetyou.weatherclub.db.Province" />
+        <mapping class="com.club.nicetomeetyou.weatherclub.db.City" />
+        <mapping class="com.club.nicetomeetyou.weatherclub.db.County" />
+    </list>
+
+</litepal>
